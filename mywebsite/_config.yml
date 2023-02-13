@@ -1,0 +1,11 @@
+title: Aditi De
+email: aditide@outlook.com
+description: Aditi De's website
+url: "https://aditide.com"
+twitter: aditide_
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
